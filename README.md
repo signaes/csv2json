@@ -34,4 +34,4 @@ The following should be printed on your terminal:
 ]
 ```
 
-If you move the `csv2json` binary to some directory in your `PATH` like `/usr/local/bin` for example, then you can have it available as a command on any terminal section.
+If you move the `csv2json` binary to some directory in your `PATH` like `/usr/local/bin` for example, then you can have it available as a command on any terminal session.
